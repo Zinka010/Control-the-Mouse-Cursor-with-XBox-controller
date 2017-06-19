@@ -1,0 +1,16 @@
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.exe.config
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.exe
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.pdb
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.exe.config
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.exe
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\MoveCursorWithXboxController.pdb
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.exe
+C:\Users\Justin\Documents\GitHub\Control-the-Mouse-Cursor-with-XBox-controller\MoveCursorWithXboxController\MoveCursorWithXboxController\obj\Debug\MoveCursorWithXboxController.pdb
